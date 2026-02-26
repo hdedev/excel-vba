@@ -31,7 +31,7 @@ Sau khi import, module `NumberConvert` sẽ xuất hiện trong Project.
 |---|---|
 | 1234 | One thousand two hundred thirty four |
 
----
+
 
 ### Đọc số thành chữ tiếng Việt
 
@@ -45,7 +45,6 @@ Sau khi import, module `NumberConvert` sẽ xuất hiện trong Project.
 |---|---|
 | 1234 | Một nghìn hai trăm ba mươi bốn |
 
----
 
 ## Ứng dụng
 
